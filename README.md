@@ -1,0 +1,21 @@
+# Goals outline
+
+- Explore the synthetic EHR using SQL
+- identify basic descriptions of the dataset that characterize the population
+  - Age, race, other demos
+  - Count of total patients
+  - Count of daily patients
+  - Count and ratio of top 5 reasons for visits 
+  - Bar plot of daily admissions, discharges, deaths
+- Other descriptions
+  - Most common medications
+  - Medications for different codes
+  - Most common comorbidity
+  - Highest healthcare usage by disease
+  - Most common languages preferred by patients
+  - types of clinical management plans
+  - most utilized departments of the hospital
+    - age distributions by departments
+    - length of hospitalizations by department
+  - cost and payment for claims
+  - locations of different hospital systems ('organizations') in the data
